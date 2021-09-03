@@ -51,7 +51,7 @@ git add .
 
 #### Git Commit
 
-After staging your code using `git add .` we now need to commit our changes. This is the final step we will take before pushing our code to github. Think about commits as check points or save points in your code. You will need to provide a message about the commit using the `-m` flag.
+## After staging your code using `git add .` we now need to commit our changes. This is the final step we will take before pushing our code to github. Think about commits as check points or save points in your code. You will need to provide a message about the commit using the `-m` flag.
 
 run:
 
